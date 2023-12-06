@@ -1,4 +1,4 @@
-// Code splitting
+// Code splitting lesson 01
 
 import * as React from 'react'
 // 💣 remove this import
