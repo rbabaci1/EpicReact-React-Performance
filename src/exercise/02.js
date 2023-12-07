@@ -1,5 +1,5 @@
 // useMemo for expensive calculations
-// http://localhost:3000/isolated/exercise/02.js
+
 
 import * as React from 'react'
 import {useCombobox} from '../use-combobox'
