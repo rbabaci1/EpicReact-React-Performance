@@ -15,7 +15,7 @@ function App() {
         flexDirection: 'column',
         justifyContent: 'center',
         height: '100%',
-        padding: '2rem',
+        padding: '1.5rem',
       }}
     >
       <label
