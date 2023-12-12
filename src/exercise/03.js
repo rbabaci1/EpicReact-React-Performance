@@ -1,5 +1,4 @@
 // React.memo for reducing unnecessary re-renders
-// http://localhost:3000/isolated/exercise/03.js
 
 import * as React from 'react'
 import {useCombobox} from '../use-combobox'

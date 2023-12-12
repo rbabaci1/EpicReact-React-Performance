@@ -1,6 +1,5 @@
 // useMemo for expensive calculations
 
-
 import * as React from 'react'
 import {useCombobox} from '../use-combobox'
 import {getItems} from '../filter-cities'
